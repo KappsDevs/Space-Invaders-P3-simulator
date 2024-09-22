@@ -14,7 +14,7 @@ Este é um projeto do clássico jogo **Space Invaders** desenvolvido usando o si
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/KappsDevs/space-invaders.git
+   git clone https://github.com/KappsDevs/Space-Invaders-P3-simulator.git
 
 2. Acesse o diretório do projeto:
    ```bash
